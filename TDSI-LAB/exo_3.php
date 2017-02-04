@@ -5,6 +5,7 @@
 	<h1>Calcul sur les variables</h1>
 
 <?php
+//Test modif
 
     // Déclaration et initialisation des variables
 	$TVA = 0.256;
