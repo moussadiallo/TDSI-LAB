@@ -1,6 +1,6 @@
 <?php
 
 
-echo "salut tout le monde !"
+echo "salut tout le monde !";
 
 ?>
