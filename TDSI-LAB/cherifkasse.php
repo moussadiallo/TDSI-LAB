@@ -1,4 +1,6 @@
 <?php
-  echo "Bonjour";
+echo "Bonjour";
+
+echo "au revoir a bientot";
 
 ?>
