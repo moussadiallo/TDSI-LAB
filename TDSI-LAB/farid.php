@@ -1,6 +1,8 @@
 <?php
 
+$var = "salut tout le monde";
+echo $var;
 
-echo "salut tout le monde !";
+
 
 ?>
