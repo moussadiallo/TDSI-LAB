@@ -1,3 +1,3 @@
 <?php
-    echo "nouvelle branche";
+    echo "Nouvelle branche";
 ?>
